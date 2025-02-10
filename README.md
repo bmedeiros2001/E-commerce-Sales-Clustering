@@ -1,6 +1,6 @@
 # E-commerce-Sales-Clustering
 
-## Project Summary:
+## Project Summary
 Performed two-level k-means clustering on data for a book e-commerce website.
 
 - 1st-level clustering was based on RFM ("recency", "frequency" and "monetary") and "tof"
@@ -8,7 +8,7 @@ Performed two-level k-means clustering on data for a book e-commerce website.
 
 ---
 
-## Dataset Information:
+## Dataset Information
 - One row for each client.
 
 **Columns:**
