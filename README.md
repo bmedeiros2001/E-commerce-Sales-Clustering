@@ -40,6 +40,11 @@ Performed two-level k-means clustering on data for a book e-commerce website.
   <img width="900" alt="Image" src="https://github.com/user-attachments/assets/7dd5853b-8556-4572-9292-06757e62a39d" />
 </p>
 
+---
+
+## Disclaimers and Additional Information
+- This final project is for a data science consulting class that presents case studies simulating real-world business challenges. Students apply machine learning techniques while ensuring insights are clear and support decision-making. The final presentation introduces a fictional consulting firm, representing the class team and their previous projects.
+- Beyond clustering analysis, the team proposed a marketing strategy for the e-commerce company, including revenue growth projections.
 
 
 
