@@ -22,22 +22,22 @@ Performed two-level k-means clustering on data for a book e-commerce website.
 ---
 
 ## Results
-The results of the 1st-level clustering indicated 4 clusters: "Lost Clients", "At Risk", "Can't Loose", and "Stars". 
+**The results of the 1st-level clustering indicated 4 clusters:** "Lost Clients", "At Risk", "Can't Loose", and "Stars". 
 
 <p align="center">
   <img width="700" alt="Image" src="https://github.com/user-attachments/assets/a88463d5-996e-4095-9bd3-e41708f7180a" />
 </p>
 
-Results of 2nd-level clustering recommended that each of the four clusters be broken into 2 sub-clusters. After analyzing genre preferences for each subcluster, we found the profile of each sub-cluster was similar in all four clusters. 
+**Results of 2nd-level clustering recommended that each of the four clusters be broken into 2 sub-clusters.** After analyzing genre preferences for each subcluster, we found the profile of each sub-cluster was similar in all four clusters. 
 
 <p align="center">
   <img width="700" alt="Image" src="https://github.com/user-attachments/assets/ba1b7509-6319-4706-81d0-e74de628560a" />
 </p>
 
----
+**Simplified final structure:**
 
 <p align="center">
-  <img width="700" alt="Image" src="https://github.com/user-attachments/assets/7dd5853b-8556-4572-9292-06757e62a39d" />
+  <img width="900" alt="Image" src="https://github.com/user-attachments/assets/7dd5853b-8556-4572-9292-06757e62a39d" />
 </p>
 
 
