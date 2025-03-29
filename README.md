@@ -4,7 +4,7 @@
 Performed two-level k-means clustering on data for a book e-commerce website.
 
 - 1st-level clustering was based on RFM ("recency", "frequency" and "monetary") and "tof"
-- 2nd-level clusteringg was based on the 30 frequency columns for all genres
+- 2nd-level clustering was based on the 30 frequency columns for all genres
 
 ---
 
